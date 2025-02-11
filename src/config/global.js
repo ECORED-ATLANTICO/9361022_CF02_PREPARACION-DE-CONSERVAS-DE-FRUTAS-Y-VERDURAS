@@ -1,9 +1,9 @@
 export default {
   global: {
-    componenteFormativo:
+    Name:
       'Métodos de conservación y preparación de conservas de frutas y verduras',
-    descripcionCurso:
-      'Este componente proporciona una guía completa sobre los métodos de conservación y preparación de conservas de frutas y verduras. Explica al aprendiz la importancia de la clasificación de los alimentos para su uso adecuado y la prevención de su deterioro. Se describen los factores que afectan la seguridad alimentaria, incluyendo los agentes biológicos, el almacenamiento adecuado y el control de temperatura y humedad.',
+    Description:
+      'Este componente proporciona una guía completa sobre los métodos de conservación y preparación de conservas de frutas y verduras. Explica al aprendiz la importancia de la clasificación de los alimentos para su uso adecuado y la prevención de su deterioro. Se describen los factores que afectan la seguridad alimentaria, incluyendo los agentes biológicos, el almacenamiento adecuado y el control de temperatura y humedad. <br> Se detallan métodos de conservación como la salazón, la adición de azúcar y alcohol, y el escaldado, con especial énfasis en la pasteurización y esterilización, así como también aborda la elaboración de almíbares, mermeladas y conservas de vegetales en salmuera, detallando paso a paso el proceso, desde la selección de los ingredientes hasta el envasado y almacenamiento.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -94,6 +94,11 @@ export default {
             titulo: 'Elaboración de conservas de fruta',
             hash: 't_3_1',
           },
+          {
+            numero: '3.2',
+            titulo: 'Conservas de vegetales',
+            hash: 't_3_2',
+          },
         ],
       },
     ],
@@ -128,7 +133,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF02_93610220_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -169,7 +174,7 @@ export default {
     {
       tema: 'Preparación de conservas de vegetales.',
       referencia:
-        'Paltrinieri, G. (1997). Procesamiento a pequeña escala de frutas y hortalizas amazónicas nativas e introducidas: Manual técnico. (Tratado de Cooperación Amazónica, Colaborador). TCA.',
+        'Paltrinieri, G. (1997). Preparación del vinagre (Tratado de Cooperación Amazónica, Colaborador). TCA.',
       tipo: 'Capítulo de Libro ',
       link: 'https://www.fao.org/4/x5029s/X5029S09.htm#4.6%20Encurtidos',
     },
@@ -296,8 +301,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -307,13 +311,12 @@ export default {
         {
           nombre: 'Ángela Viviana Páez Perilla',
           cargo: 'Experta temática',
-          centro: 'Centro agroindustrial - Regional Quindío',
+          centro: 'Centro Agroindustrial Regional Quindío',
         },
         {
           nombre: 'Jairo Valencia Ebratt',
           cargo: 'Evaluador instruccional',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -323,20 +326,17 @@ export default {
         {
           nombre: 'Eulises Orduz Amezquita',
           cargo: 'Diseñador <em>web</em>',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Rafael Bladimir Pérez Meriño',
-          cargo: 'Desarrollador <em>fullstack</em>',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y productor audiovisual',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -344,28 +344,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          nombre: 'Maria Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles ',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro Comercio y Servicios Regional Atlántico',
         },
       ],
     },

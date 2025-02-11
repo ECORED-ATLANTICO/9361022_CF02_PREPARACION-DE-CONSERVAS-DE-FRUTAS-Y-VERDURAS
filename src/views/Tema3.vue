@@ -46,6 +46,7 @@
     .row.justify-content-center.my-3.fnd-5
       .col-lg-10
         .tarjeta.p-4.fnd-6
+          h3.my-3(style="color: #5C783B") Como seleccionar las frutas
           SlyderA(tipo="b")
             .row.justify-content-center
               .col-lg-8.col-md-12.mb-4.mb-md-0.align-content-center
@@ -178,7 +179,7 @@
         figcaption Fuente: SENA (2024).
 
     p.text-center.text-light(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Elaboración de mermelada</b>
-    p.my-3 La mermada es un producto obtenido de llevar la concentración de un jugo de fruta o frutas troceadas, al cual se le adiciona azúcar y otros aditivos como la pectina, hasta lograr un producto con consistencia gelatinosa.
+    p.my-3 La mermelada es un producto obtenido de llevar la concentración de un jugo de fruta o frutas troceadas, al cual se le adiciona azúcar y otros aditivos como la pectina, hasta lograr un producto con consistencia gelatinosa.
 
     p.text-center.text-light(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Operaciones aconsejadas para elaborar mermeladas</b>
 
@@ -308,7 +309,7 @@
     img.my-3(src="@/assets/curso/temas/tema3/img23.svg", alt="alt")
     figcaption Fuente: SENA (2024).
 
-    p.my-3 Al seleccionar vegetales debe tener en cuenta que estos posean buenas características organolépticas como: olor, sabor y textura; en la siguiente tabla se describen ejemplos de las características de algunas verduras:
+    p.my-3 Al seleccionar vegetales debe tener en cuenta que estos posean buenas características organolépticas como: olor, sabor y textura; a continuación, se describen ejemplos de las características de algunas verduras:
 
     .row.justify-content-center.my-3.fnd-5
       .col-lg-10

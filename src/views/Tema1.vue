@@ -7,7 +7,7 @@
         span 1
       h1 Métodos de conservación de las frutas y verduras
     
-    h5.blue_icon.my-3(data-aos="fade-left") Introducción
+    //- h5.blue_icon.my-3(data-aos="fade-left") Introducción
 
     .row.justify-content-center.my-3
       .col-lg-7
@@ -216,7 +216,7 @@
             thead
               tr
                 th.text-light(style="background: #5C783B") Clasificación
-                th.text-light(style="background: #5C783B")  Descripción
+                th.text-light(style="background: #5C783B") Tiempo de escalado en agua hirviendo
             tbody
               tr
                 th(style="background: #EDF1E9") Espárragos
