@@ -284,7 +284,7 @@ export default {
     },
     {
       referencia:
-        'Secretaria de agricultura, ganadería, desarrollo rural pesca y alimentación. (s.f.). Procesamiento de frutas y verduras a nivel casero. Consultado el 03 de marzo de 2014, en ',
+        'Secretaria de agricultura, ganadería, desarrollo rural pesca y alimentación. (s.f.). Procesamiento de frutas y verduras a nivel casero. Consultado el 03 de marzo de 2014. ',
       link: '',
     },
   ],
