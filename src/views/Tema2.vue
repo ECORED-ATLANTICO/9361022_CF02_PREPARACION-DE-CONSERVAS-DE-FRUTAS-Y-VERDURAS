@@ -140,7 +140,7 @@
       .col-lg-10.col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 1.
-            span <em>Baño maría paso a paso</em>
+            span <em>Baño de María paso a paso</em>
         img.my-3(src="@/assets/curso/temas/tema2/img7.png", alt="alt")
         figcaption Fuente: Bueno, (2017).
 
