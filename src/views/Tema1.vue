@@ -7,7 +7,7 @@
         span 1
       h1 Métodos de conservación de las frutas y verduras
     
-    //- h5.blue_icon.my-3(data-aos="fade-left") Introducción
+    h5.blue_icon.my-3(data-aos="fade-left") Introducción
 
     .row.justify-content-center.my-3
       .col-lg-7
@@ -20,11 +20,11 @@
     #t_1_1.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 1.1 Generalidades de la conservación
     
-    img.my-3(src='@/assets/curso/temas/tema1/img2.png', alt='Imagen decorativa')
+    img.mb-5(src='@/assets/curso/temas/tema1/img2.png', alt='Imagen decorativa')
 
     .row.justify-content-center.my-3.fnd
-      .col-lg-9.col-md-8.align-content-center
-        img.my-3(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen decorativa')
+      .col-lg-10.col-md-8.align-content-center
+        img.mb-5(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen decorativa')
         .row.justify-content-center.my-3.fnd-2(data-aos='fade-up')
           .col-lg-3.col-md-8.align-content-center
             img.my-3(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')

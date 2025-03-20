@@ -68,7 +68,7 @@
         LineaTiempoD.color-secundario.mt-3
           .row(numero="1" titulo="Llenado")
             .col-md-12.mb-4.mb-md-0
-              p Llenar los frascos con el alimento previamente cocinado y aún caliente, dejando un espacio libre de aproximadamente 1 cm entre el nivel del alimento y el borde del frasco. Este espacio, conocido como <em>"headspace"</em>, permite la expansión del alimento durante el tratamiento térmico y evita que el líquido se derrame durante el proceso.
+              p Llenar los frascos con el alimento previamente cocinado y aún caliente, dejando un espacio libre de aproximadamente 1 cm entre el nivel del alimento y el borde del frasco. Este espacio, conocido como <em>headspace</em>, permite la expansión del alimento durante el tratamiento térmico y evita que el líquido se derrame durante el proceso.
           .row(numero="2" titulo="Eliminación de burbujas")
             .col-md-12.mb-4.mb-md-0
               p Con la ayuda de una espátula o cuchillo limpio, eliminar las burbujas de aire que hayan quedado atrapadas dentro del frasco. Las burbujas de aire pueden afectar la calidad del producto final y favorecer el crecimiento de microorganismos.

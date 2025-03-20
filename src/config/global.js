@@ -326,7 +326,8 @@ export default {
         {
           nombre: 'Eulises Orduz Amezquita',
           cargo: 'Diseñador <em>web</em>',
-          centro: 'Centro Comercio y Servicios Regional Atlántico',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
